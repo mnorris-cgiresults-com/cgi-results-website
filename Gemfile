@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "4.4.0"
 gem "bundler", "~> 4.0.15"
+gem 'wdm', '>= 0.1.0'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
