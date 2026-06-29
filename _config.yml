@@ -31,3 +31,4 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 - bootstrap
+exclude: ["Gemfile.lock", "node_modules"]
