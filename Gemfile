@@ -11,8 +11,8 @@ source "https://rubygems.org"
 gem "jekyll", "4.3.3"
 gem "bundler", "~> 4.0.15"
 gem 'wdm', '>= 0.1.0'
-gem 'redcarpet', '~> 3.5'
-gem 'rexml', '~> 3.2'
+#gem 'redcarpet', '~> 3.5'
+#gem 'rexml', '~> 3.2'
 
 
 
