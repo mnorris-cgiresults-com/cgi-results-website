@@ -8,9 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "4.4.1"
+gem "jekyll", "4.3.3"
 gem "bundler", "~> 4.0.15"
 gem 'wdm', '>= 0.1.0'
+gem 'redcarpet', '~> 3.5'
+gem 'rexml', '~> 3.2'
+
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
