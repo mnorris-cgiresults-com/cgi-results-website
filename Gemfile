@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "4.3.3"
+gem "jekyll", "3.5.0"
 gem "bundler", "~> 4.0.0"
 gem 'wdm', '>= 0.1.0'
 #gem 'redcarpet', '~> 3.5'
