@@ -6,7 +6,6 @@ Short Description: 'Has your planned live event has been cancelled due to COVID-
   Now what? Talk to us about virtual conference options. '
 ---
 
-
 <div class="row mb-5 pb-4">
 
     <div class="col-md-6">

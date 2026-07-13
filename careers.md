@@ -5,7 +5,6 @@ position: 3
 layout: page
 ---
 
-
 <div class="row mb-5 pb-4" style="margin-bottom: 1rem !important;">
 
   <div class="col-md-6">

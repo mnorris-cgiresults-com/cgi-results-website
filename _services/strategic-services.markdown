@@ -8,7 +8,6 @@ Short Description: Strategic planning is about the future; your organization's i
   needs and the long-term sustainability of your organization.
 ---
 
-
 <div class="row mb-5 pb-4">
 
   <div class="col-md-6">

@@ -7,8 +7,6 @@ Short Description: |-
   event to a new level.
 ---
 
-
-
 <div class="row my-4">
   <div class="col-md-6">
     <img src="/uploads/events-2_2.jpg" alt="Memorable event experiences" />
